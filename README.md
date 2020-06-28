@@ -1,5 +1,5 @@
 # Coursera_Capstone.
-Applied Data Science Capstone - Capstone Project Notebook - The Battle of Neighborhoods
+<h1 align="center"><font size="5">Applied Data Science Capstone - Capstone Project Notebook - The Battle of Neighborhoods</font></h1>
 
 Course Contents:
 
