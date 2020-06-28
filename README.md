@@ -4,6 +4,7 @@ Applied Data Science Capstone - Capstone Project Notebook - The Battle of Neighb
 Course Contents:
 
 Week 1 - Introduction to Capstone Project
+
 Introduction to Capstone Project
 Learning about the capstone project and the different tools and skills that you will learn in this course.
 Learning about the different location data providers and what location data is composed of.
@@ -14,6 +15,7 @@ Signing-up for a Watson Studio Account
 Peer-review Assignment: Capstone Project Notebook
 
 Week 2 - Foursquare API
+
 Learning about Foursquare and its API.
 Learning how to create a Foursquare developer account.
 Creating a Foursquare developer account.
@@ -25,6 +27,7 @@ Lab: Foursquare API
 Quiz: Foursquare API
 
 Week 3 - Neighborhood Segmentation and Clustering
+
 Learning about clustering and k-means clustering in particular.
 Learning how to use the Foursquare API and clustering to segment and cluster the neighborhoods in New York City.
 Learning how to use the Beautifulsoup Python package to scrape websites and parse HTML code.
@@ -35,11 +38,13 @@ Lab: Segmenting and Clustering Neighborhoods in New York City
 Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
 Week 4 - Capstone Project
+
 Define a problem for your capstone project.
 Discuss the data that you will use to solve the problem.
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
 Week 5 - Capstone Project (Cont'd)
+
 Carry out the remaining work to complete the capstone project.
 Submit a link to your project notebook and a complete project report.
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
